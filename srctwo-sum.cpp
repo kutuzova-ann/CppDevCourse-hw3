@@ -1,6 +1,6 @@
 #include "two-sum.hpp"
 
-bool two-sum(
+bool two_sum(
     const int nums[ARRAY_SIZE],
     const int target,
     std::size_t& index0,
